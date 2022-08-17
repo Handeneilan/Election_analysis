@@ -4,7 +4,7 @@
 
 The purpose of the election audit is to help Seth and Tom to identify how many candidates participated in the election commission. They wanted to know total number of votes, and how mnay number of each candidate received, determine the winner of the election, find out to percentage of votes for each county and find out which county has the highest turnout.
 
-##Election-Audit Results
+## Election-Audit Results
 
 * Total number of votes : 369,711
 
