@@ -8,23 +8,23 @@ The purpose of the election audit is to help Seth and Tom to identify how many c
 
 * Total number of votes : 369,711
 
-
+![total votes](https://user-images.githubusercontent.com/104239978/185024719-82ddd0e1-9d82-455c-adbf-ef4c5091f1f3.png)
 
 * The number of votes and the percentage of total votes for each county
 
-
+![county votes](https://user-images.githubusercontent.com/104239978/185024747-323e5ea8-36a5-48f8-8d84-efb83d0fd2ff.png)
 
 * Denver had the largest number of votes with 306,055
 
-
+![county turnout](https://user-images.githubusercontent.com/104239978/185024766-d2ebf100-e709-4fd2-aca2-aa4ad6c4eddb.png)
 
 * The number of votes and the percentage of the total votes each candidate received
 
-
+![candidates](https://user-images.githubusercontent.com/104239978/185024785-b4dc4489-fab1-4800-9e7a-567aa6b787c0.png)
 
 * The winning candidate is Diana DeGette with 272,892 total votes.
 
-
+![winner](https://user-images.githubusercontent.com/104239978/185024816-de547a9f-e6f0-4c78-b65b-d589ef128ac2.png)
 
 ## Election-Audit Summary
 
