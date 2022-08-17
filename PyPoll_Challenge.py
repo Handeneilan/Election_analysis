@@ -5,12 +5,15 @@
 import csv
 import os
 
+#note : I tried to write the file_to_load as line 11 however it gave an error than I switched it as line 12,
+#and was able to see the results. 
 # Add a variable to load a file from a path.
-path = "C:/Users/hande/Desktop/Election_analysis"
-file_to_load = os.path.join(path, "Resources", "election_results.csv")
+path = "C:/Users/hande/Desktop/Election_analysis/"
+#file_to_load = os.path.join(path, "Resources", "election_results.csv")
+file_to_load = path+"Resourses/election_results.csv"
 # Add a variable to save the file to a path.
-file_to_save = os.path.join("analysis", "election_analysis.txt")
-
+#file_to_save = os.path.join("analysis", "election_analysis.txt")
+file_to_save = path + "analysis/election_analysis.txt"
 # Initialize a total vote counter.
 total_votes = 0
 
