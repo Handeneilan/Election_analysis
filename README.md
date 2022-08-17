@@ -28,4 +28,4 @@ The purpose of the election audit is to help Seth and Tom to identify how many c
 
 ## Election-Audit Summary
 
-As long as they provide a similiar data format script can be easily used for another election. It does not to be modified for similar data set. Currently the script we have can provide us concise breakdown of the election and results are easy to read. We can easily include more candidates and more details about the candidates such as political party, age etc. And this script still will be helpful to identify winner.
+As long as they provide a similiar data format, the script can be easily used for another election. It does not to be modified for similar data set. Currently the script we have can provide us concise breakdown of the election and results are easy to read. We can easily include more candidates and more details about the candidates such as political party, age etc. and this script still will be helpful to identify the winner.
